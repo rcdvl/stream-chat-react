@@ -47,6 +47,7 @@ describe('ChannelSearch', () => {
           type="text"
           value=""
         />
+        
       </div>
     `);
   });
@@ -65,6 +66,7 @@ describe('ChannelSearch', () => {
           type="text"
           value=""
         />
+        
       </div>
     `);
   });
