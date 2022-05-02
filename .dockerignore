@@ -1,0 +1,10 @@
+.github
+developers
+dist
+docs
+docusaurus
+dotgit
+examples
+node_modules
+*.log
+src

@@ -1,0 +1,7 @@
+services:
+    scr-node-14:
+       build: .
+       volumes:
+           - ./src/:/scr/src/:ro
+       command: test
+       restart: on-failure
